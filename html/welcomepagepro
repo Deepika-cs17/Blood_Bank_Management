@@ -1,0 +1,41 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="../css/signup1.css">
+<link rel="stylesheet" href="fonts/iconic/css/material-design-iconic-font.min.css">
+<title>Login Page</title>
+</head>
+<h1>LOGIN PAGE</h1>
+<center>
+<body>
+<div id="id1">
+<h2 style="color:white; font-family:Algerian; font-size:250%;">DOCDOT</h2>
+
+<div1 class="container-login100-form-btn">
+	<button class="login100-form-btn" style="width: 220px; height:52px">
+			CHECK MEDICINES
+		</button>
+		</div1><br>
+		<br>
+<div1 class="container-login100-form-btn">
+	<button class="login100-form-btn" style="width: 220px; height:52px">
+			SCAN REPORTS
+		</button>
+		</div1>
+		<br>
+		<br>
+<div1 class="container-login100-form-btn">
+	<button class="login100-form-btn" style="width: 220px; height:52px">
+			MEDIC REFERENCE
+		</button>
+		</div1>
+<center>
+          <b>
+         <h1 style="color:white; font-family:Copperplate Gothic Bold; font-size:190%;">YOUR MEDIC BOOK AT</h1>
+          <h1 style="color:white; font-family:Copperplate Gothic Bold; font-size:190%;">YOUR POCKET</h1>
+          
+          </b>
+</div>
+</form>
+</center>
+</body>
+</html>
