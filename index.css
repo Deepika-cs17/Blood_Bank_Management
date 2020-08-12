@@ -1,0 +1,70 @@
+body{
+	background-image: url("image/medical.jpeg");
+    height:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: repeat; 
+}
+h1{
+     text-align:center;
+font-size:3.0em;
+color:white;
+
+}
+h2{
+     font-size:2.0em;
+    color:black;
+}
+a
+{
+    background-color: black;
+    color:black;
+    font-size:1.0em;
+    
+font-size:20px;
+padding:10px 20px;
+width:12%;
+height:45%;
+}
+h3{
+     font-size:2.0em;
+    color:black;
+}
+button{
+    font-size: 22px;
+    font-color: white;
+    width: 10%;
+    height: 40px;
+}
+
+input[type=text],[type=password],[type=email],[type=num]{
+    width: 500px;
+     font-size: 1.2em;
+    padding: 10px 15px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] ,[type=reset]{
+    width: 100px;
+    background-color: white;
+    color: black;
+     font-size: 1.2em;
+      padding: 12px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+#id1{
+    width:500px;
+    height: 500px;
+}
+div {
+    border-radius: 4px;
+    background-color:rgba(69, 178, 163,0.6);
+    padding: 10px;
+}
